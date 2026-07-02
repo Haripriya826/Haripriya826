@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Haripriya+Sundararajan;Full+Stack+Developer+%7C+ML+Engineer;Building+AI-powered+%26+scalable+web+apps;B.Tech+CSE+%40+SASTRA+University" alt="Typing SVG" />
 </a>
-
+<br/><br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00c9a7&style=flat" alt="Profile Views"/>
