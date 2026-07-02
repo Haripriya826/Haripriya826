@@ -230,17 +230,7 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 </div>
 
----
 
-## 💡 Fun Facts
-
-- 🐛 The first computer bug was an actual moth found trapped in a Harvard Mark II relay in 1947.
-- ⌨️ The QWERTY keyboard layout was designed to slow typists down and prevent mechanical typewriter jams.
-- 🧮 The term "debugging" predates computers — Thomas Edison used it in the 1870s to describe fixing technical glitches.
-- 🔁 Git was created by Linus Torvalds in just about two weeks to manage Linux kernel development.
-- ☕ Java was originally called "Oak," named after an oak tree outside its creator's office.
-
----
 
 ## 💬 Quote
 
