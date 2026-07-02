@@ -183,23 +183,17 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haripriya826&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7&text_color=c9d1d9"/>
+<a href="https://agronex1.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌱_Agronex-Live_Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriya826&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7"/>
+<a href="https://alzeimer.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🧠_Alzheimer's_AI-Live_Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya826&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&text_color=c9d1d9" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haripriya826&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c9a7&line=00c9a7&point=ffffff" width="95%" alt="Activity Graph"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=YOUR_AGRONEX_REPO_NAME&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=YOUR_ALZHEIMER_REPO_NAME&theme=tokyonight&hide_border=true"/>
+<a href="https://food-app-tom.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🍔_Tomato_Food_App-Live_Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
