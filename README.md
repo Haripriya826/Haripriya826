@@ -3,9 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20There!%20I'm%20Haripriya%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&height=50&lines=Haripriya+Sundararajan;Full+Stack+Developer+%7C+ML+Engineer;B.Tech+CSE+%40+SASTRA+University" alt="Typing SVG" />
-<a/>
-<br/><br/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=Haripriya+Sundararajan;Full+Stack+Developer+%7C+ML+Engineer+%7C+Building+AI-powered+%26+Scalable+Web+Apps;B.Tech+CSE+%40+SASTRA+University"
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00c9a7&style=flat" alt="Profile Views"/>
