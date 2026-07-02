@@ -129,7 +129,7 @@ AI-powered smart farming dashboard offering real-time crop disease detection, we
 <br/><br/>
 
 
-[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://agronex1.vercel.app/))
+[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://agronex1.vercel.app/])
 
 </td>
 <td width="50%">
@@ -147,7 +147,7 @@ Deep learning system that classifies MRI scans to assist in early Alzheimer's de
 <br/><br/>
 
 
-[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://alzeimer.vercel.app/))
+[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://alzeimer.vercel.app/])
 
 </td>
 </tr>
@@ -168,7 +168,7 @@ Full-stack food delivery web application with secure authentication, real-time o
 <br/><br/>
 
 
-[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://food-app-tom.vercel.app/))
+[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://food-app-tom.vercel.app/])
 
 </td>
 </tr>
@@ -202,35 +202,8 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 ---
 
-## 🌐 Coding Profiles
 
-<div align="center">
 
-<a href="https://leetcode.com/your-leetcode-id" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.codechef.com/users/your-codechef-id" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/your-codeforces-id" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg-id" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/your-hackerrank-id" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced_DSA-8B0000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-006400?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-</div>
 
 
 
