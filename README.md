@@ -28,7 +28,7 @@
 ## 🧑‍💻 About Me
 
 
-I'm **Haripriya Sundararajan**, a B.Tech Computer Science Engineering student at **SASTRA Deemed University**, maintaining a CGPA of **8.52**, with an expected graduation in **2027**. I work as a **Full Stack Developer** and **Machine Learning Engineer**, passionate about building end-to-end products that combine robust web architecture with intelligent, data-driven systems. My interests span **Artificial Intelligence, Web Development, and Software Engineering**, and I enjoy translating complex problems into clean, scalable, and user-centric solutions. From designing responsive front-end interfaces to training deep learning models for real-world applications, I like owning the full lifecycle of a product — from idea to deployment. I'm constantly learning, experimenting, and refining my craft as an engineer who values clarity, performance, and thoughtful design.
+I'm **Haripriya Sundararajan**, a B.Tech Computer Science Engineering student at **SASTRA Deemed University**, with an expected graduation in **2027**. I work as a **Full Stack Developer** and **Machine Learning Engineer**, passionate about building end-to-end products that combine robust web architecture with intelligent, data-driven systems. My interests span **Artificial Intelligence, Web Development, and Software Engineering**, and I enjoy translating complex problems into clean, scalable, and user-centric solutions. From designing responsive front-end interfaces to training deep learning models for real-world applications, I like owning the full lifecycle of a product — from idea to deployment. I'm constantly learning, experimenting, and refining my craft as an engineer who values clarity, performance, and thoughtful design.
 
 <br clear="right"/>
 
