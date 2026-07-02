@@ -196,9 +196,9 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=Food_app&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=YOUR_EXACT_ALZHEIMER_REPO_NAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=Agro-nex&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
