@@ -183,13 +183,11 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haripriya826&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriya826&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya826&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 
 <br><br>
 
