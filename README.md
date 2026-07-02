@@ -184,15 +184,18 @@ Full-stack food delivery web application with secure authentication, real-time o
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Haripriya826&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7&text_color=c9d1d9" />
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriya826&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7" />
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya826e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya826&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&text_color=c9d1d9" alt="Top Languages" />
 
-<br/>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haripriya826&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c9a7&line=00c9a7&point=ffffff" width="95%" alt="Activity Graph"/>
+
+
 
 <br/><br/>
 
