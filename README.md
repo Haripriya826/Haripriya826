@@ -183,10 +183,11 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haripriya826&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriya826&theme=tokyonight&hide_border=true" />
 
 <br><br>
-
 
 
 <br><br>
@@ -195,12 +196,11 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=YOUR_EXACT_AGRONEX_REPO_NAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haripriya826&repo=YOUR_EXACT_ALZHEIMER_REPO_NAME&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 
