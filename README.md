@@ -128,8 +128,8 @@ AI-powered smart farming dashboard offering real-time crop disease detection, we
 
 <br/><br/>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/your-github-username/agronex)
-[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://agronex1.vercel.app/))
 
 </td>
 <td width="50%">
@@ -146,8 +146,8 @@ Deep learning system that classifies MRI scans to assist in early Alzheimer's de
 
 <br/><br/>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/your-github-username/alzheimers-detector)
-[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://alzeimer.vercel.app/))
 
 </td>
 </tr>
@@ -167,8 +167,8 @@ Full-stack food delivery web application with secure authentication, real-time o
 
 <br/><br/>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/your-github-username/tomato-food-delivery)
-[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+
+[![Demo](https://img.shields.io/badge/Live-Demo-00c9a7?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://food-app-tom.vercel.app/))
 
 </td>
 </tr>
