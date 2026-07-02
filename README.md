@@ -12,15 +12,14 @@
 <br><br>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00c9a7&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat&color=00c9a7" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Haripriya826&label=Profile%20Views&color=00c9a7&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Haripriya826?label=Followers&style=flat&color=00c9a7" alt="Followers"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/your-leetcode-id" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://linkedin.com/in/haripriya826" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sharipriya008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/Harip08" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 </div>
 
@@ -28,7 +27,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Dark.svg" alt="coding" style="opacity:0;height:0;width:0;" />
 
 I'm **Haripriya Sundararajan**, a B.Tech Computer Science Engineering student at **SASTRA Deemed University**, maintaining a CGPA of **8.52**, with an expected graduation in **2027**. I work as a **Full Stack Developer** and **Machine Learning Engineer**, passionate about building end-to-end products that combine robust web architecture with intelligent, data-driven systems. My interests span **Artificial Intelligence, Web Development, and Software Engineering**, and I enjoy translating complex problems into clean, scalable, and user-centric solutions. From designing responsive front-end interfaces to training deep learning models for real-world applications, I like owning the full lifecycle of a product — from idea to deployment. I'm constantly learning, experimenting, and refining my craft as an engineer who values clarity, performance, and thoughtful design.
 
